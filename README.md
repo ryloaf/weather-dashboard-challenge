@@ -10,6 +10,6 @@ The user is presented with a search bar to enter a city name, and once the searc
 
 ## Link to Application
 
-[Weather Dashboard](https://ryloaf.github.io/weather-dashboard-challenge/)https://ryloaf.github.io/weather-dashboard-challenge/
+[Weather Dashboard](https://ryloaf.github.io/weather-dashboard-challenge/)
 
 &copy; 2024 Rylee Jolley GitHub @ryloaf
